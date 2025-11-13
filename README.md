@@ -6,7 +6,7 @@ It showcases my ability to create professional layouts, clean UI, and mobile-fir
 ---
 
 ## 🌍 Live Demo
-[🔗 View Project](#) (Add your GitHub Pages or Netlify link here)
+[🔗 View Project](#) ( https://cleverley300.github.io/NaijaBook-65---Nigeria-s-Premier-Bookstore/)
 
 ---
 
