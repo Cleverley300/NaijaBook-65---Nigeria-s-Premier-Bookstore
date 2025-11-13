@@ -1,6 +1,6 @@
  📚 NaijaBook@65 – Nigeria's Premier Bookstore
 
-NaijaBook@65 is a *fully responsive front-end web project* built with pure *HTML5* and *CSS3*, inspired by Nigeria’s vibrant literary culture.  
+NaijaBook@65 is a *fully responsive front-end web project* built with pure *HTML5*, *CSS3*, and *JavaScript*, inspired by Nigeria’s vibrant literary culture.  
 It showcases my ability to create professional layouts, clean UI, and mobile-first designs without frameworks.
 
 ---
